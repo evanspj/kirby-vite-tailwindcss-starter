@@ -12,7 +12,7 @@ This simple starter template uses the [plainkit](https://getkirby.com/try) versi
 
 1. Install repo to your local machine.
 
--   [Download](https://github.com/evanspj/kirby-vite-tailwindcss-starter/archive/refs/heads/main.zip) this repo.
+-   [Download](https://github.com/evanspj/kirby-vite-tailwindcss-starter/archive/refs/heads/main.zip) this repo or
 -   Clone the repo. `https://github.com/evanspj/kirby-vite-tailwindcss-starter.git`
 
 2. Once installed on your local machine, while in the root directory run the command `yarn` or `npm install` to install Vite, Tailwind CSS and other dependencies.
