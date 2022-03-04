@@ -1,4 +1,5 @@
-**Kirby CMS + Vite + Tailwind CSS Starter Template**
+# Kirby CMS + Vite + Tailwind CSS Starter Template
+
 This simple starter template uses the [plainkit](https://getkirby.com/try) version of Kirby CMS while leveraging [Vite](https://vitejs.dev/) to compile static assets and [Tailwind CSS](https://tailwindcss.com/) for styling.
 
 ### Prerequisites
@@ -9,14 +10,12 @@ This simple starter template uses the [plainkit](https://getkirby.com/try) versi
 
 ### Setup
 
-You will need to download this template to get it setup. To install you can do either of the below:
-
 1. Install repo to your local machine.
 
--   Download this repo.
--   Clone the repo. `git clone https://github.com/evanspj/kirby-vite-tailwindcss-starter.git`
+-   [Download](https://github.com/evanspj/kirby-vite-tailwindcss-starter/archive/refs/heads/main.zip) this repo.
+-   Clone the repo. `https://github.com/evanspj/kirby-vite-tailwindcss-starter.git`
 
-2. Once installed on your local machine, while in the root directory run the command `yarn` or `npm install` to install Vite, Tailwind and other dependencies.
+2. Once installed on your local machine, while in the root directory run the command `yarn` or `npm install` to install Vite, Tailwind CSS and other dependencies.
 
 ### Usage
 
