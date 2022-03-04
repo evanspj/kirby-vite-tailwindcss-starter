@@ -1,6 +1,6 @@
 # Kirby CMS + Vite + Tailwind CSS Starter Template
 
-This simple starter template uses the [plainkit](https://getkirby.com/try) version of Kirby CMS while leveraging [Vite](https://vitejs.dev/) to compile static assets and [Tailwind CSS](https://tailwindcss.com/) for styling.
+This simple starter template uses the [plainkit](https://getkirby.com/try) version of Kirby CMS while leveraging [Vite](https://vitejs.dev/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ### Prerequisites
 
