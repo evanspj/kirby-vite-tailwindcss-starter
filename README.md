@@ -1,3 +1,6 @@
+> [!Warning]
+> This template is archived. If you would like to use Vite and Tailwind with Kirby CMS, you should use the [Kirby Vite](https://github.com/arnoson/kirby-vite#readme) plugin
+
 # Kirby CMS + Vite + Tailwind CSS Starter Template
 
 This simple starter template uses the [plainkit](https://getkirby.com/try) version of Kirby CMS while leveraging [Vite](https://vitejs.dev/) and [Tailwind CSS](https://tailwindcss.com/).
